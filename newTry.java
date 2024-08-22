@@ -11,4 +11,5 @@ public class newTry {
     // this is just for github main 
 
     // cok gec oldu yeter be kardesim
+    //hala gec oldu
 }
