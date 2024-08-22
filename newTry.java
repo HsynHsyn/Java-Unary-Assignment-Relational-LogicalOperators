@@ -15,4 +15,6 @@ public class newTry {
     // bak suna yav
 
     // bu artik cok oldu
+
+    // bu satir son satir
 }
