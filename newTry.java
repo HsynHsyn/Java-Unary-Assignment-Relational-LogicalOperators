@@ -17,4 +17,7 @@ public class newTry {
     // bu artik cok oldu
 
     // bu satir son satir
+
+    // gecenin bir yarisi oldu git
+
 }
