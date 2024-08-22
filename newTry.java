@@ -12,4 +12,5 @@ public class newTry {
 
     // cok gec oldu yeter be kardesim
     //hala gec oldu
+    // bak suna yav
 }
