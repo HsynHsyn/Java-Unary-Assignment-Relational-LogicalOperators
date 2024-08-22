@@ -7,4 +7,6 @@ public class newTry {
 
     //----------------------------------
     // I am fed up with the git
+
+    // bu artik cok oldu
 }
