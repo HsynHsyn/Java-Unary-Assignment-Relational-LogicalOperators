@@ -8,5 +8,11 @@ public class newTry {
     //----------------------------------
     // I am fed up with the git
 
+    // this is just for github main
+
+    // cok gec oldu yeter be kardesim
+    //hala gec oldu
+    // bak suna yav
+
     // bu artik cok oldu
 }
